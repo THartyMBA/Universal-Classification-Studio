@@ -37,7 +37,7 @@ Quick start (local)
 bash
 Copy
 Edit
-git clone https://github.com/yourname/universal-classification-studio.git
+git clone https://github.com/THartyMBA/universal-classification-studio.git
 cd universal-classification-studio
 python -m venv venv && source venv/bin/activate   # Win: venv\Scripts\activate
 pip install -r requirements.txt
